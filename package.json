@@ -1,0 +1,29 @@
+{
+  "name": "boom-colorify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asishmindfire/boom-colorify.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify log"
+  ],
+  "author": "Asish S <asishkumarsharma1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asishmindfire/boom-colorify/issues"
+  },
+  "homepage": "https://github.com/asishmindfire/boom-colorify#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": ["lib/**/*"]
+}

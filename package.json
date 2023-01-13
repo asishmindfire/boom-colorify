@@ -1,7 +1,7 @@
 {
   "name": "boom-colorify",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.2.0",
+  "description": "Boom boom your logs with colorify",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
